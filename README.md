@@ -8,8 +8,8 @@
     <p>The "add_text" method adds text to an image at specific positions using different font styles.</p>
     <p>The "run" method coordinates the entire process by applying the gradient fade effect, adding borders, and adding text to the image.</p>
     <p>To use the code, create an instance of the "ImageBorderFade" class, specify the input and output file names, and call the "run" method.</p>
-    <pre><code>
-        # This Code is for job posted on upwork
-        # Job link: https://www.upwork.com/jobs/Create-python-script-for-adding-text-borders-image-using-Pillow_~01fe0e375e4211b2fb/
 
-     
+        This Code is for job posted on upwork
+        Job link: https://www.upwork.com/jobs/Create-python-script-for-adding-text-borders-image-using-Pillow_~01fe0e375e4211b2fb/
+
+         <pre>
